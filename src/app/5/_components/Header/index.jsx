@@ -43,7 +43,7 @@ export default function Header() {
         <Box sx={{ display: 'flex', alignItems: 'center' }}>
           <ShieldIcon sx={{ mr: 1, fontSize: '2rem', color: 'secondary.main' }} />
           <Typography variant="h6" noWrap sx={{ fontWeight: 'bold' }}>
-            PinPamPum
+            Kubrelo
           </Typography>
         </Box>
         <Box sx={{ display: { xs: 'none', md: 'flex' }, alignItems: 'center', gap: 2 }}>

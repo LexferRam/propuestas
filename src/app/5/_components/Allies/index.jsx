@@ -170,7 +170,7 @@ const AlliesSection = () => {
     return filtered;
   }, [selectedSpecialty, searchTerm]);
 
-  const googleMapsApiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
+  const googleMapsApiKey = 'AIzaSyDAGc4uOzUVadrka9VkRrtsBgC_rJNylc4'//process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
 
   return (
     <section className="py-20 bg-gray-50">

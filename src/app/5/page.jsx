@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Kubrelo - Tu Confianza es Nuestra Prioridad</title>
+        <title>Kúbrelo - Tu Confianza es Nuestra Prioridad</title>
         <meta name="description" content="Atención médica de calidad con profesionales certificados." />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
       </Head>

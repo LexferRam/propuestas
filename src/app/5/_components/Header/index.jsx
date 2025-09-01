@@ -12,7 +12,7 @@ import Link from 'next/link';
 const navItems = [
   { name: 'Beneficios', href: '#beneficios' },
   { name: 'Testimoniales', href: '#testimoniales' },
-  { name: 'Clínicas', href: '#clinicas' },
+  { name: 'Aliados', href: '#aliados' },
   { name: 'Precios', href: '#precios' },
   { name: 'Pagos', href: '#pagos' },
 ];

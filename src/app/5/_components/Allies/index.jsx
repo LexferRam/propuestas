@@ -173,7 +173,7 @@ const AlliesSection = () => {
   const googleMapsApiKey = 'AIzaSyDAGc4uOzUVadrka9VkRrtsBgC_rJNylc4'//process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
 
   return (
-    <section className="py-20 bg-gray-50">
+    <section id="aliados" className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
         <h2 className="text-[2.8rem] font-bold text-center text-[#2F9CE0] mb-12 leading-[1.2]">
           Nuestra Red de Aliados
